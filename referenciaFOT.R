@@ -1,6 +1,6 @@
 # ========= BANCO DE DADOS DE NORMAIS ==========
 # ====== TESE MESTRADO INGRID FERNANDES ========
-# ===== modificado no RStudio do Macbook Air ===
+# ===== sincronizado em 17 out 2023=============
 
 library(readxl)
 library(tidyverse)
