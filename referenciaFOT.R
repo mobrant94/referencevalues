@@ -1,7 +1,8 @@
 # ========= BANCO DE DADOS DE NORMAIS ==========
 # ====== TESE MESTRADO INGRID FERNANDES ========
 # ===== sincronizado em 17 out 2023=============
-#marcos#
+#marcos
+
 library(readxl)
 library(tidyverse)
 library(ggpubr)
