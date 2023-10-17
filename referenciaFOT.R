@@ -1,5 +1,6 @@
 # ========= BANCO DE DADOS DE NORMAIS ==========
 # ====== TESE MESTRADO INGRID FERNANDES ========
+# ===== modificado no RStudio do Macbook Air ===
 
 library(readxl)
 library(tidyverse)
